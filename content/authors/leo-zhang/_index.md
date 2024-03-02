@@ -69,7 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Academic Staff
 ---
 
 Alan Liew is a the Head of School of the School of ICT at Griffith University. He is a professor of artificial intelligence.

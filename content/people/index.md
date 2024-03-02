@@ -12,7 +12,7 @@ sections:
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           - Co-Directors
-          - Researchers
+          - Academic Staff
           - PhD Students
           - Administration
           - Visitors
