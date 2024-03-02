@@ -13,9 +13,9 @@ sections:
         align: center
         background:
           image:
-            filename: labfront.jpg
+            filename: labfront.jpg      
             filters:
-              brightness: 0.7
+              brightness: 0.8
           position: right
           color: '#666'
       - title: A Dynamic and Supporting Environment☕️
@@ -35,14 +35,14 @@ sections:
           image:
             filename: ijcnn.jpg
             filters:
-              brightness: 0.5
+              brightness: 0.7
           position: center
           color: '#333'
         link:
           icon: graduation-cap
           icon_pack: fas
           text: Join Us
-          url: ../post/phd_position/
+          url: ../post/phd-position/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
@@ -50,5 +50,5 @@ sections:
       # Automatically transition through slides?
       loop: false
       # Duration of transition between slides (in ms)
-      interval: 2000
+      interval: 3000
 ---

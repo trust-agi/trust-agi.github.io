@@ -1,6 +1,11 @@
 ---
 title: Griffith University Research Infrastructure Program (GURIP) Success
 date: 2023-12-01
+image:
+  caption: Photo By GPT4
+  focal_point: Smart
+  preview_only: false
+  filename: gurip24.jpg  # Uncomment to load an image from `assets/media/` instead.
 ---
 
 Congratulations to Prof Alian Liew and the Team for Winning a 2024 Griffith University Research Infrastructure Program Grant 

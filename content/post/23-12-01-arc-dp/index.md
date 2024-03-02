@@ -1,9 +1,16 @@
 ---
 title: ARC Discovery Project Grant Success
 date: 2023-12-01
+
+image:
+  caption: Photo by GPT-4
+  focal_point: Smart
+  filename: arc-dp.jpg  # Uncomment to load an image from `assets/media/` instead.
 ---
 
 Congratulations to Prof Shirui Pan and the Team for Winning a 2024 ARC Discovery Project Grant 
+
+
 
 <!--more-->
 

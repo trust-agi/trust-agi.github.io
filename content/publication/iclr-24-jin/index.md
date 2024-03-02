@@ -22,11 +22,11 @@ publication_short: ""
 abstract: "Time series forecasting holds significant importance in many real-world dynamic systems and has been extensively studied. Unlike natural language process (NLP) and computer vision (CV), where a single large model can tackle multiple tasks, models for time series forecasting are often specialized, necessitating distinct designs for different tasks and applications. While pre-trained foundation models have made impressive strides in NLP and CV, their development in time series domains has been constrained by data sparsity. Recent studies have revealed that large language models (LLMs) possess robust pattern recognition and reasoning abilities over complex sequences of tokens. However, the challenge remains in effectively aligning the modalities of time series data and natural language to leverage these capabilities. In this work, we present Time-LLM, a reprogramming framework to repurpose LLMs for general time series forecasting with the backbone language models kept intact. We begin by reprogramming the input time series with text prototypes before feeding it into the frozen LLM to align the two modalities. To augment the LLM's ability to reason with time series data, we propose Prompt-as-Prefix (PaP), which enriches the input context and directs the transformation of reprogrammed input patches. The transformed time series patches from the LLM are finally projected to obtain the forecasts. Our comprehensive evaluations demonstrate that Time-LLM is a powerful time series learner that outperforms state-of-the-art, specialized forecasting models. Moreover, Time-LLM excels in both few-shot and zero-shot learning scenarios."
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "**[ICLR-2024]** This work introduces Time-LLM, a novel reprogramming framework that adapts Large Language Models (LLMs) for general time series forecasting, overcoming the challenges of data sparsity and modality alignment between time series and natural language. By reprogramming time series data with text prototypes and employing the Prompt-as-Prefix (PaP) technique for enriched input context, Time-LLM demonstrates superior forecasting performance, outshining specialized models in both few-shot and zero-shot learning scenarios."
 
 tags: [graph neural networks]
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -48,9 +48,10 @@ url_video:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+
 image:
-  caption: ""
-  focal_point: ""
+  caption: Jin et al, ICLR 2024
+  focal_point: Smart
   preview_only: false
 
 # Associated Projects (optional).

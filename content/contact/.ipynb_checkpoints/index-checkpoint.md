@@ -22,7 +22,7 @@ sections:
       coordinates:
         latitude: '-27.964860'
         longitude: '153.381820'
-      directions: 1 Parkland Dr, School of ICT, Griffith University,, Gold Coast, QLD 4125
+      #directions: 1 Parkland Dr, School of ICT, Griffith University, Southport, QLD 4125, Australia
       office_hours:
         - 'Monday-Friday 09:00 AM to 5:00 PM'
         #- 'Wednesday 09:00 to 10:00'
@@ -37,13 +37,7 @@ sections:
       autolink: true
     
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+
     design:
       columns: '1'
 
