@@ -15,7 +15,15 @@ sections:
       text: |
         <br>
         
-        The **Trustworthy AGI (TrustAGI) Lab** at Griffith University has been a center of excellence for Trustworthy Artificial General Intelligence research, teaching, and practice since its founding in 2022.
+        
+        The **Trustworthy AGI (TrustAGI) Lab** at Griffith University is at the forefront of pioneering research in Artificial General Intelligence, focusing on developing ethical, reliable, and safe AI technologies. This leading lab is dedicated to advancing the understanding and application of AGI through innovative projects and collaborations.
+
+
+
+
+
+
+
 
   
   - block: collection
@@ -23,7 +31,7 @@ sections:
       title: Latest News
       subtitle:
       text:
-      count: 5
+      count: 3
       filters:
         author: ''
         category: ''
