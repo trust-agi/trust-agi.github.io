@@ -31,7 +31,7 @@ sections:
       title: Latest News
       subtitle:
       text:
-      count: 3
+      count: 4
       filters:
         author: ''
         category: ''
@@ -42,7 +42,7 @@ sections:
       order: desc
       page_type: post
     design:
-      view: card
+      view: list
       columns: '1'
   
   - block: markdown
