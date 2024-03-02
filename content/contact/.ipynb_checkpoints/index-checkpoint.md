@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: |-
-        Contact us if you would like to collaborate with us.
+        Contact us if you would like to collaborate with us. If you would like to explore PhD/visiting opportunities, please see the information [HERE](../post/phd-position/).
       email: s.pan@griffith.edu.au
       phone: +61 7 5678 0653
       address:
