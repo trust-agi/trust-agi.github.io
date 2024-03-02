@@ -1,3 +1,3 @@
-# [Trust AGI Group](https://github.com/wowchemy/starter-hugo-research-group) at Griffith University
+# [Trust AGI Group](https://trust-agi.github.io/) at Griffith University
 
-[![Screenshot](./preview.png)](https://hugoblox.com/hugo-themes/)
+[![Screenshot](./asset/media/labfront.jpg)](https://trust-agi.github.io/)
