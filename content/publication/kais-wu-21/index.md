@@ -1,0 +1,13 @@
+---
+title: "OpenWGL: Open-World Graph Learning for Unseen Class Node Classification"
+date: 2021-6-11
+publishDate: 2021-06-11T12:15:49.436331Z
+authors: ["Man Wu", "Shirui Pan", "Xingquan Zhu"]
+publication_types: ["2"]
+abstract: "Graph learning, such as node classification, is typically carried out in a closed-world setting. A number of nodes are labeled, and the learning goal is to correctly classify remaining (unlabeled) nodes into classes, represented by the labeled nodes. In reality, due to limited labeling capability or dynamic evolving nature of networks, some nodes in the networks may not belong to any existing/seen classes, and therefore cannot be correctly classified by closed-world learning algorithms. In this paper, we propose a new open-world graph learning paradigm, where the learning goal is to correctly classy nodes belonging to labeled classes into correct categories, and also classify nodes not belonging to labeled classes to an unseen class. Open-world graph learning has three major challenges: (1) graphs do not have features to represent nodes for learning; (2) unseen class nodes do not have labels, and may exist in an arbitrary form different from labeled classes; and (3) graph learning should differentiate whether a node  belong to an existing/seen class or an unseen class. To tackle the challenges, we propose an uncertain node representation learning principle to use multiple versions of node feature representation to test a classifier's response on a node, through which we can differentiate whether a node belongs to the unseen class. Technical wise, we propose constrained variational graph autoencoder, using label loss and class uncertainty loss constraints, to ensure that node representation learning is sensitive to the unseen class. As a result, node embedding features are denoted by distributions, instead of deterministic feature vectors. In order to test the certainty of a node belonging to seen classes, a sampling process is proposed to generate multiple versions of feature vectors to represent each node, using automatic thresholding to reject nodes not belonging to seen classes as unseen class nodes. Experiments, using graph convolutional networks and graph attention networks on four real-world networks, demonstrate the algorithm performance. Case studies and ablation analysis also show the advantage of the uncertain representation learning and automatic threshold selection for open-world graph learning.
+"
+featured: false
+publication: "Knowledge and Information Systems *(Invited Extension for the ICDM-20 Best Student Paper)*"
+tags: [ "Graph Neural Networks"]
+url_pdf: ""
+---

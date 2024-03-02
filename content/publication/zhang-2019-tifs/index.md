@@ -1,0 +1,12 @@
+---
+title: "Familial Clustering For Weakly-labeled Android Malware Using Hybrid Representation Learning"
+date: 2019-10-12
+publishDate: 2019-10-12T12:15:49.441121Z
+authors: ["Yanxin Zhang", "Yulei Sui", "Shirui Pan", "Zheng Zheng",  "Baodi Ning", "Ivor Tsang", "Wanlei Zhou"] 
+publication_types: ["2"]
+abstract: "Labeling malware or malware clustering is important for identifying new security threats, triaging and building reference datasets. The state-of-the-art Android malware clustering approaches rely heavily on the raw labels from commercial AntiVirus (AV) vendors, which causes misclustering for a substantial number of weakly-labeled malware due to the inconsistent, incomplete and overly generic labels reported by these closed-source AV engines, whose capabilities vary greatly and whose internal mechanisms are opaque (i.e., intermediate detection results are unavailable for clustering). The raw labels are thus often used as the only important source of information for clustering. To address the limitations of the existing approaches, this paper presents ANDRE, a new ANDroid Hybrid REpresentation Learning approach to clustering weakly-labeled Android malware by preserving heterogeneous information from multiple sources (including the results of static code analysis, the metainformation of an app, and the raw-labels of the AV vendors) to jointly learn a hybrid representation for accurate clustering. The learned representation is then fed into our outlieraware clustering to partition the weakly-labeled malware into known and unknown families. The malware whose malicious behaviours are close to those of the existing families on the network, are further classified using a three-layer Deep Neural Network (DNN). The unknown malware are clustered using a standard density-based clustering algorithm. We have evaluated our approach using 5,416 ground-truth malware from Drebin and 9,000 malware from VIRUSSHARE (uploaded between Mar. 2017 and Feb. 2018), consisting of 3324 weakly-labeled malware. The evaluation shows that ANDRE effectively clusters weaklylabeled malware which cannot be clustered by the state-of-theart approaches, while achieving comparable accuracy with those approaches for clustering ground-truth samples."
+featured: false
+publication: "*IEEE Transactions on Information Forensics & Security (TIFS)*"
+tags: ["android malware", "clustering", "graph embedding"]
+---
+

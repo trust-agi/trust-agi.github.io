@@ -1,0 +1,12 @@
+---
+title: "Anomaly Detection on Attributed Networks via Contrastive Self-Supervised Learning"
+date: 2021-03-19
+publishDate: 2021-03-19T12:19:12.824998Z
+authors: ["Yixin Liu", "Zhao Li", "Shirui Pan", "Chen Gong", "Chuan Zhou", "George Karypis"]
+publication_types: ["2"]
+abstract: "Anomaly detection on attributed networks attracts considerable research interests due to wide applications of attributed networks in modeling a wide range of complex systems. Recently, the deep learning-based anomaly detection methods have shown promising results over shallow approaches, especially on networks with high-dimensional attributes and complex structures. However, existing approaches, which employ graph autoencoder as their backbone, do not fully exploit the rich information of the network, resulting in suboptimal performance. Furthermore, these methods do not directly target anomaly detection in their learning objective and fail to scale to large networks due to the full graph training mechanism. To overcome these limitations, in this paper, we present a novel Contrastive self-supervised Learning framework for Anomaly detection on attributed networks (CoLA for abbreviation). Our framework fully exploits the local information from network data by sampling a novel type of contrastive instance pair, which can capture the relationship between each node and its neighboring substructure in an unsupervised way. Meanwhile, a well-designed graph neural network-based contrastive learning model is proposed to learn informative embedding from high-dimensional attributes and local structure and measure the agreement of each instance pairs with its outputted scores. The multi-round predicted scores by the contrastive learning model are further used to evaluate the abnormality of each node with statistical estimation. In this way, the learning model is trained by a specific anomaly detection-aware target. Furthermore, since the input of the graph neural network module is batches of instance pairs instead of the full network, our framework can adapt to large networks flexibly. Experimental results show that our proposed framework outperforms the state-of-the-art baseline methods on all seven benchmark datasets."
+featured: false
+publication: "IEEE Transactions on Neural Networks and Learning Systems (TNNLS)"
+tags: ["Graph Neural Networks", "Anomaly Detection"]
+url_pdf: https://arxiv.org/pdf/2103.00113.pdf
+---

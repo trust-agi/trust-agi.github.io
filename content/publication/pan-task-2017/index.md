@@ -1,0 +1,13 @@
+---
+title: "Task sensitive feature exploration and learning for multitask graph classification"
+date: 2017-01-01
+publishDate: 2019-09-03T11:36:51.693189Z
+authors: ["Shirui Pan", "Jia Wu", "Xingquan Zhu", "Guodong Long", "Chengqi Zhang"]
+publication_types: ["2"]
+abstract: "Multitask learning (MTL) is commonly used for jointly optimizing multiple learning tasks. To date, all existing MTL methods have been designed for tasks with feature-vector represented instances, but cannot be applied to structure data, such as graphs. More importantly, when carrying out MTL, existing methods mainly focus on exploring overall commonality or disparity between tasks for learning, but cannot explicitly capture task relationships in the feature space, so they are unable to answer important questions, such as what exactly is shared between tasks and what is the uniqueness of one task differing from others? In this paper, we formulate a new multitask graph learning problem, and propose a task sensitive feature exploration and learning algorithm for multitask graph classification. Because graphs do not have features available, we advocate a task sensitive feature exploration and learning paradigm to jointly discover discriminative subgraph features across different tasks. In addition, a feature learning process is carried out to categorize each subgraph feature into one of three categories: 1) common feature; 2) task auxiliary feature; and 3) task specific feature, indicating whether the feature is shared by all tasks, by a subset of tasks, or by only one specific task, respectively. The feature learning and the multiple task learning are iteratively optimized to form a multitask graph classification model with a global optimization goal. Experiments on real-world functional brain analysis and chemical compound categorization demonstrate the algorithm's performance. Results confirm that our method can be used to explicitly capture task correlations and uniqueness in the feature space, and explicitly answer what are shared between tasks and what is the uniqueness of a specific task."
+featured: true
+publication: "*IEEE Transactions on Cybernetics*"
+tags: ["Feature selection", "graph classification", "subgraph mining", "multitask learning (MTL)", "supervised learning"]
+doi: "10.1109/TCYB.2016.2526058"
+---
+

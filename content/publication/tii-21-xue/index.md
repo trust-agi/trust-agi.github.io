@@ -1,0 +1,11 @@
+---
+title: "One-shot Learning-based Animal Video Segmentation"
+date: 2021-09-18
+publishDate: 2021-09-18T12:15:49.436331Z
+authors: ["Tengfei Xue", "Yongliang Qiao", "He Kong", "Daobilige Su", "Shirui Pan", "Khalid Rafique", "Salah Sukkarieh"]
+publication_types: ["2"]
+abstract: "Deep learning-based video segmentation methods can offer good performance after being trained on the large-scale pixel labeled datasets. However, pixel-wise manual labeling of animal images is challenging and time-consuming due to irregular contours and motion blur. To achieve desirable trade-offs between accuracy and speed, a novel one-shot learning-based approach is proposed to segment animal video with only one labeled frame. The proposed approach consists of three main modules: (1) Guidance Frame Selection (GFS) utilizes BubbleNet to choose one frame for manual labeling, which can leverage the fine-tuning effects of the only labeled frame; (2) Xception-based Fully Convolutional Network (XFCN) localizes dense prediction using depthwise separable convolutions based on one single labeled frame; (3) Post-processing (POST) is used to remove outliers and sharpen object contours, which consists of two sub-modules---Test Time Augmentation (TTA) and Conditional Random Field (CRF). Extensive experiments have been conducted on the DAVIS 2016 animal dataset. Our proposed video segmentation approach achieved mean intersection-over-union score of 89.5% on the DAVIS 2016 animal dataset with less run-time, and outperformed the state-of-art methods (OSVOS and OSMN). The proposed one-shot learning-based approach achieves real-time and automatic segmentation of animals with only one labeled video frame. This can be potentially used further as a baseline for intelligent perception-based monitoring of animals and other domain specific applications. The source code, datasets, and pre-trained weights for this work are publicly available at our github repository."
+featured: false
+publication: "*IEEE Transactions on Industrial Informatics (TII)*"
+tags: [ "One-shot learning"]
+---

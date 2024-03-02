@@ -1,0 +1,13 @@
+---
+title: "Relation Structure-Aware Heterogeneous Graph Neural Network"
+date: 2019-09-01
+publishDate: 2019-09-05T12:19:12.825976Z
+authors: ["Shichao Zhu", "Chuan Zhou", "Shirui Pan", "Xingquan Zhu", "Bin Wang"]
+publication_types: ["1"]
+abstract: "Heterogeneous graphs with different types of nodes and edges are ubiquitous and have immense value in many applications. Existing works on modeling heterogeneous graphs usually follow the idea of splitting a heterogeneous graph into multiple homogeneous subgraphs. This is ineffective in exploiting hidden rich semantic associations between different types of edges for large-scale multi-relational graphs. In this paper, we propose Relation Structure-Aware Heterogeneous Graph Neural Network (RSHN), a unified model that integrates graph and its coarsened line graph to embed both nodes and edges in heterogeneous graphs without requiring any prior knowledge such as meta-path. To tackle the heterogeneity of edge connections, RSHN first creates a Coarsened Line Graph Neural Network (CL-GNN) to excavate edge-centric relation structural features that respect the latent associations of different types of edges based on coarsened line graph. After that, a Heterogeneous Graph Neural Network (H-GNN) is used to leverage implicit messages from neighbor nodes and edges propagating among nodes in heterogeneous graphs. As a result, different types of nodes and edges can enhance their embedding through mutual integration and promotion. Experiments and comparisons, based on semi-supervised classification tasks on large scale heterogeneous networks with over a hundred types of edges, show that RSHN significantly outperforms state-of-the-arts."
+featured: false
+publication: "*Proceedings - 19th IEEE International Conference on Data Mining, ICDM 2019*"
+url_code: "https://github.com/CheriseZhu/RSHN"
+tags: ["Graph Neural Networks"]
+---
+
