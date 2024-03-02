@@ -1,6 +1,10 @@
 ---
 title: 2024 IEEE TNNLS Distinguished Paper Award
 date: 2023-09-01
+image:
+  caption: Photo by GPT-4
+  focal_point: Smart
+  #filename: nsf.jpg  # Uncomment to load an image from `assets/media/` instead.
 ---
 
 Congratulations to Prof Shirui Pan and the team for winning the 2024 IEEE TNNLS Distinguished Paper Award. The full citation of the paper follows.
