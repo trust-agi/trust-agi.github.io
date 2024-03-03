@@ -10,7 +10,7 @@ date: '2023-12-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by GPT4
+  caption: 
   focal_point: Smart
   preview_only: false
   filename: arc-dp.jpg  # Uncomment to load an image from `assets/media/` instead.

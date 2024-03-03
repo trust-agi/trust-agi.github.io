@@ -2,7 +2,7 @@
 title: ARC Future Fellowship Grant Success
 date: 2021-08-01
 image:
-  caption: Photo by GPT-4
+  caption: 
   focal_point: Smart
   filename: arc-ft.jpg  # Uncomment to load an image from `assets/media/` instead.
 ---

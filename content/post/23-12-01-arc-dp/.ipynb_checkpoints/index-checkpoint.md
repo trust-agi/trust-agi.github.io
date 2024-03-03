@@ -3,7 +3,7 @@ title: ARC Discovery Project Grant Success
 date: 2023-12-01
 
 image:
-  caption: Photo by GPT-4
+  caption: 
   focal_point: Smart
   filename: arc-dp.jpg  # Uncomment to load an image from `assets/media/` instead.
 ---
