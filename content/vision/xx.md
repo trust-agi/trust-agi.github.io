@@ -1,5 +1,5 @@
 ---
-title: Our Vision and Research Areas
+title: Vision and Research Areas
 
 # Listing view
 view: compact
@@ -26,7 +26,7 @@ The Trustworthy AGI Lab strategically organizes its research activities into two
 
 ### [Theme 1: AGI Research](../post/23-12-01-arc-dp/) 
 
-[![Screenshot](theme1.jpg)](../post/23-12-01-arc-dp/)
+[![Screenshot](../publication/llm-kg-23/featured.png)](../post/23-12-01-arc-dp/)
 
 
 * Large Language Models: 

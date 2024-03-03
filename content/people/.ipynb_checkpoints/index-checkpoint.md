@@ -12,7 +12,7 @@ sections:
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           - Co-Directors
-          - Researchers
+          - Academic Staff
           - PhD Students
           - Administration
           - Visitors
@@ -23,4 +23,14 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
+      
+      
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="../post/phd-position/" cta_text="Join Us →" %}}
+    design:
+      columns: '1'
 ---
