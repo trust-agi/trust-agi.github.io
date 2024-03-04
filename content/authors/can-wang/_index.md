@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr
+title: Can Wang
 first_name: Can
 last_name: Wang
 
