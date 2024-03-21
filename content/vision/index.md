@@ -14,7 +14,7 @@ sections:
       text: |
               The **TrustAGI Lab** at Griffith University envisions itself as a pioneering force in the realm of Trustworthy **Artificial General Intelligence (AGI)**, committed to: 
               * **Advancing AGI Research:** The lab aspires to propel the field of AGI forward by spearheading the development of novel AI algorithms. Our goal is to endow machines with human-level intelligence, contributing significantly to the evolution of AI capabilities. 
-              * **Ensuring Trustworthiness and Transparency:** Recognizing the critical importance of trust and transparency in AI technologies, the Trustworthy AGI Lab is dedicated to providing practical solutions. Addressing key challenges associated with the deployment of AGI, our focus encompasses explainability, safety, robustness, fairness, and privacy. By pioneering advancements in these domains, we aim to establish AGI systems that are not only powerful but also ethical and accountable. 
+              * **Ensuring Trustworthiness and Transparency:** Recognizing the critical importance of trust and transparency in AI technologies, the TrustAGI Lab is dedicated to providing practical solutions. Addressing key challenges associated with the deployment of AGI, our focus encompasses explainability, safety, robustness, fairness, and privacy. By pioneering advancements in these domains, we aim to establish AGI systems that are not only powerful but also ethical and accountable. 
 
       
   - block: markdown
