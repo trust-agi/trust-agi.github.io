@@ -32,12 +32,16 @@ Griffith Uni ranks in the top 2 percent of universities globally with 50000 stud
 ### Research Group
 <span style="color:red"> Group members can be found <a href='../../people'> here.</a> </span> 
 This TrustAGI lab mainly focuses on data mining, machine learning, NLP, deep learning, graph data analytics, and AI applications. The research group consists of a number of Phd students working on the following area (Potential PhD/minor thesis/honours research topics include but are not limited to):
-
+* <b> Large Language Models (LLMs) </b>
+  1. LLMs for time series analysis
+  2. LLMs for graph analysis
+  3. LLMs and knowledge graphs
+  4. LLMs for drug discovery
 * <b> Graph & Network Analytics </b>
   1. Graph Nerual Networks
   2. Graph Attack and Defence
   3. Social Recommendation
-  5. Knowledge Graph
+  5. Knowledge Graphs
   6. Graph Embedding
 * <b> Deep Learning </b>
   1. AutoML (Neural Architecture Search) 
@@ -67,7 +71,7 @@ This TrustAGI lab mainly focuses on data mining, machine learning, NLP, deep lea
   2. Explainability
   3. Robustness
   4. Privacy
-* <b> Large Language Models </b>
+
 
   
 ### Requirements
