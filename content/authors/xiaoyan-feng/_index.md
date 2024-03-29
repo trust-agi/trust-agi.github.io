@@ -1,39 +1,41 @@
 ---
 # Display name
-title: "Zhaoxi Zhang"
+title: "Xiaoyan Feng"
 
 # Username (this should match the folder name)
 authors:
-- zhaoxi-zhang
+- xiaoyan-feng
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Student @ UTS (10/2023-)
+role: PhD Student @ Griffith (04/2024-)
 
 # Organizations/Affiliations
 organizations:
-- name: University of Technology Sydney
-  url: "https://www.uts.edu.au/"
-- name: Faculty of FEIT
-  url: "https://www.uts.edu.au/about/faculty-engineering-and-information-technology"
+- name: Griffith University
+  url: "https://www.griffith.edu.au/"
+- name: School of Information and Communication Technology
+  url: "https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests mainly focus on the areas of security and privacy of artificial intelligence, especially for the adversarial attack and privacy in deep learning.
+bio: My research interests mainly focus on the areas of artificial intelligence and data mining, especially for the knowledge graph and large language model.
 
 interests:
-- Privacy and security in large language model
-- Watermarking of deep learning model
-- Adversarial attack
-- Membership inference
-
+- Graph data mining
+- Knowledge graph
+- Large language model
+- Trustworthy AI
 
 education:
   courses:
-  - course: Master of Software Engineering
-    institution: Southwest University
-    year: 2021
+  - course: M.S. in Computer Science
+    institution: University of Chinese Academy of Sciences
+    year: 2023
+  - course: Bachelor of Economics
+    institution: Nankai University
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -61,7 +63,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "Zhaoxi.Zhang-1@student.uts.edu.au"
+email: "xiaoyanfeng.kx@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  

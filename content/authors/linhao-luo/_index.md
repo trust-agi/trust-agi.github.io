@@ -31,7 +31,7 @@ interests:
 
 education:
   courses:
-  - course: Bacholar of Computer Science
+  - course: Bachelor of Computer Science
     institution: Harbin Institute of Technology
     year: 2021
 
