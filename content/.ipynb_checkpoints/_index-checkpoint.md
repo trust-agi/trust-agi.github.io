@@ -16,8 +16,6 @@ sections:
         <br>
         
         The **Trustworthy AGI (TrustAGI) Lab** at [Griffith University](https://www.griffith.edu.au/) is at the forefront of pioneering research in _Artificial General Intelligence (AGI)_, focusing on developing ethical, reliable, and safe AI technologies. This leading lab is dedicated to advancing the understanding and application of AGI through innovative projects, publications, and collaborations. 
-        
-        
 
   
   - block: collection
