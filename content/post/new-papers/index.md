@@ -16,10 +16,12 @@ sections:
              Regular Update for the Team Research Below.
              
               **2024**
-                * <span style="color:red"> <b>[ICDE]: </b> </span> One paper on fairness and privacy of GNNs were accepted at <span style="color:red"> <b> ICDE </b> </span> (03/2024).     
+                * <span style="color:red"> <b>[IJCAI]: </b> </span> Seven papers were accepted at <span style="color:red"> <b>AAAI-24(CORE A*/CCF A) </b> </span> (Shirui Pan x5, Leo Zhang x2) (4/2024).
+                * <span style="color:red"> <b>[ICDE]: </b> </span> One paper on fairness and privacy of GNNs were accepted at <span style="color:red"> <b> ICDE </b> </span> (03/2024).    
                 * <span style="color:red"> <b>[PIEEE]: </b> </span> Two papers on GNNs were accepted at <span style="color:red"> <b>Proceedings of the IEEE </b> </span> (IF: 20.6, the oldest journal in IEEE with over 110 years of history) (02/2024).
                 * <span style="color:red"> <b>[ICLR]: </b> </span> Three papers on LLMs and GNNs were accepted at <span style="color:red"> <b>ICLR-2024 (CORE A*) </b> </span> (01/2024).
-                * <span style="color:red"> <b>[AAAI]: </b> </span> Four papers on were accepted at <span style="color:red"> <b>AAAI-24(CORE A*/CCF A) </b> </span> (12/2023).
+                * <span style="color:red"> <b>[AAAI]: </b> </span> Five papers were accepted at <span style="color:red"> <b>AAAI-24(CORE A*/CCF A) </b> </span> (12/2023).
+                * <span style="color:red"> <b>[S&P]: </b> </span> Two papers on GNNs were accepted at <span style="color:red"> <b>WWW (CORE A*/CCF A) </b> </span> (11/2023).    
                 * <span style="color:red"> <b>[S&P]: </b> </span> Two papers on security and privacy of GNNs were accepted at <span style="color:red"> <b>IEEE S&P-2024 and NDSS-2024 (Top Security Conferences) </b> </span> (11/2023).    
                 * <span style="color:red"> <b>[TKDE]: </b> </span> [A Roadmap on Unifying LLMs and Knowledge Graphs](https://arxiv.org/pdf/2306.08302.pdf) is released (01/2024).
                 
