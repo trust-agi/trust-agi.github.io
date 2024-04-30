@@ -16,6 +16,7 @@ sections:
              Regular Update for the Team Research Below.
              
               **2024**
+                * <span style="color:red"> <b>[Nature Series]: </b> </span> Paper was accepted at <span style="color:red"> <b>Nature Machine Intelligence </b> </span> (4/2024).
                 * <span style="color:red"> <b>[IJCAI]: </b> </span> Seven papers were accepted at <span style="color:red"> <b>AAAI-24(CORE A*/CCF A) </b> </span> (Shirui Pan x5, Leo Zhang x2) (4/2024).
                 * <span style="color:red"> <b>[ICDE]: </b> </span> One paper on fairness and privacy of GNNs were accepted at <span style="color:red"> <b> ICDE </b> </span> (03/2024).    
                 * <span style="color:red"> <b>[PIEEE]: </b> </span> Two papers on GNNs were accepted at <span style="color:red"> <b>Proceedings of the IEEE </b> </span> (IF: 20.6, the oldest journal in IEEE with over 110 years of history) (02/2024).

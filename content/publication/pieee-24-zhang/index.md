@@ -26,11 +26,11 @@ publication_short: ""
 abstract: "Graph neural networks (GNNs) have emerged as a series of competent graph learning methods for diverse real-world scenarios, ranging from daily applications like recommendation systems and question answering to cutting-edge technologies such as drug discovery in life sciences and n-body simulation in astrophysics. However, task performance is not the only requirement for GNNs. Performance-oriented GNNs have exhibited potential adverse effects like vulnerability to adversarial attacks, unexplainable discrimination against disadvantaged groups, or excessive resource consumption in edge computing environments. To avoid these unintentional harms, it is necessary to build competent GNNs characterised by trustworthiness. To this end, we propose a comprehensive roadmap to build trustworthy GNNs from the view of the various computing technologies involved. In this survey, we introduce basic concepts and comprehensively summarise existing efforts for trustworthy GNNs from six aspects, including robustness, explainability, privacy, fairness, accountability, and environmental well-being. Additionally, we highlight the intricate cross-aspect relations between the above six aspects of trustworthy GNNs. Finally, we present a thorough overview of trending directions for facilitating the research and industrialisation of trustworthy GNNs."
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "**[PIEEE, 2024]** This paper discusses the growing relevance of graph neural networks (GNNs) across various real-world applications, from recommendation systems to drug discovery, emphasizing the need for trustworthy GNNs beyond task performance. The survey proposes a comprehensive roadmap for building such GNNs, addressing six key aspects: robustness, explainability, privacy, fairness, accountability, and environmental well-being. Additionally, it highlights the interrelations among these aspects and presents future directions for advancing trustworthy GNN research and its industrial applications."
 
 tags: [graph neural networks, trustworthy AI]
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
