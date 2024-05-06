@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student @ Monash (07/2020-)
+role: PhD
 
 # Organizations/Affiliations
 organizations:
@@ -28,6 +28,9 @@ interests:
 
 education:
   courses:
+  - course: Ph.D in Engineering
+    institution: Monash University
+    year: 2024
   - course: M.S in Vehicle Engineering
     institution: University of Science and Technology Beijing
     year: 2017
@@ -65,5 +68,5 @@ email: "jabby323 at gmail.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- PhD Students
+- Alumni
 ---
