@@ -9,3 +9,4 @@ banner:
   caption: ''
   image: ''
 ---
+{{% cta cta_link="../post/new-papers/" cta_text="New research update →" %}}
