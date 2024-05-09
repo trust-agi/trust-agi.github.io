@@ -29,6 +29,16 @@ sections:
           position: center
           color: '#555'
       - title: Expand The Boundary of AGI
+        content: 'Endow Machines with Human Intelligence'
+        align: left
+        background:
+          image:
+            filename: conf.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#333'
+      - title: Ensure the Trustworthiness and Transparency of AI
         content: 'Just opened last month!'
         align: right
         background:
@@ -42,7 +52,7 @@ sections:
           icon: graduation-cap
           icon_pack: fas
           text: Join Us
-          url: ../post/phd-position/
+          url: ../post/phd-position/          
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
