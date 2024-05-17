@@ -43,6 +43,5 @@ sections:
                 * <span style="color:red"> <b>[AAAI x3]: </b> </span> Three papers on graph neural networks were accepted by <span style="color:red"> <b> AAAI-2023 </b> </span> (11/2022).
 
                 </details>
-    
 
 ---

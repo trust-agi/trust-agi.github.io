@@ -22,7 +22,8 @@ sections:
     content:
       title: Latest News
       subtitle: 
-      text: |             
+      text: |  
+            * <span style="color:red"> <b>[KDD x3]: </b> </span> Three papers were accepted at <span style="color:red"> <b>KDD-24 (CORE A*/CCF A) </b> </span> (5/2024).
             * <span style="color:red"> <b>[Nature Series x1]: </b> </span> Paper was accepted at <span style="color:red"> <b>Nature Machine Intelligence </b> </span> (4/2024).
             * <span style="color:red"> <b>[ICML x5]: </b> </span> Five papers were accepted at <span style="color:red"> <b>ICML-24(CORE A*/CCF A) </b> </span> (Shirui Pan x4, Leo Zhang x1) (4/2024).                
             * <span style="color:red"> <b>[IJCAI x7]: </b> </span> Seven papers were accepted at <span style="color:red"> <b>IJCAI-24(CORE A*/CCF A) </b> </span> (Shirui Pan x5, Leo Zhang x2) (4/2024).
