@@ -9,6 +9,8 @@ sections:
   - block: markdown
     content:
       title: Publications
+      style:
+          font_size: M
       subtitle: 
       image:
         filename: 
@@ -17,7 +19,8 @@ sections:
         <br>
         
         {{% cta cta_link="../post/new-papers/" cta_text="New research update →" %}}
-        <script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2FFQYsCrkK6PpzzbyFA&noBootstrap=1&jsonp=1"></script>
+        <script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2FFQYsCrkK6PpzzbyFA&noBootstrap=1&jsonp=1"></script> 
+        {style="color: red"}
 
  
            
