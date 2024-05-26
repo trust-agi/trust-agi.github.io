@@ -9,7 +9,7 @@ sections:
   - block: markdown
     content:
       title: Publications
-      subtitle: Curated Publications (CORE A*/A/ or JCR Q1/Q2 Publications)
+      subtitle: Curated Publications (CORE A*/A or JCR Q1/Q2 Publications)
       image:
         filename: 
         filename: 
