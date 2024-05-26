@@ -7,7 +7,7 @@ image:
   #filename: nsf.jpg  # Uncomment to load an image from `assets/media/` instead.
 ---
 
-Congratutations on **six** team members for completing their thesss in 2024.  It is our fortune to have worked with them.
+Congratutations on **six** team members for completing their theses in 2024.  It is our fortune to have worked with them.
 
 
 <!--more-->
