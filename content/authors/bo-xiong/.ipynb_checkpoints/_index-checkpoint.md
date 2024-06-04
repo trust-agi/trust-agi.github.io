@@ -1,43 +1,38 @@
 ---
 # Display name
-title: He Zhang
+title: Bo Xiong
 
 # Username (this should match the folder name)
 authors:
-- he-zhang
+- bo-xiong
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD 
+role: PhD Student @ Universität Stuttgart (09/2020-)
 
 # Organizations/Affiliations
 organizations:
-- name: Monash University
-  url: "https://www.monash.edu/"
-- name: Faculty of IT
-  url: "https://www.monash.edu/it"
+- name: Universität Stuttgart
+  url: "https://www.uni-stuttgart.de/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include data mining, machine learning, and graph analysis.
+bio: My research interests mainly focus on machine learning on relational data (e.g., knowledge graphs).
 
 interests:
-- Artificial Intelligence
 - Machine Learning
+- Knowledge Graphs
+
 
 education:
   courses:
-  - course: Ph.D in AI
-    institution: Monash University
-    year: 2024
-  - course: M.S in Computer Science and Technology
-    institution: Institute of Computing Technology, Chinese Academy of Sciences
-    year: 2019
-  - course: B.S in Mathematics and Applied Mathematics
-    institution: Nanjing University of Science and Technology
-    year: 2013
-
+  - course: Bachelors of Engineering
+    institution: Beijing Jiaotong University
+    year: 2018
+  - course: Masters of Engineering
+    institution: Beijing Jiaotong University
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -50,11 +45,15 @@ social:
 
 #-   icon : "university"
 #    icon_pack : "fa"
-#    link : "//research.monash.edu/en/persons/shirui-pan"
+#    link : "huan.koh@monash.edu"
 
-#-   icon : "linkedin"
-#    icon_pack : "fa"
-#    link : "//www.linkedin.com/in/shirui-pan-38348245/"
+-   icon : "linkedin"
+    icon_pack : "fas"
+    link : "https://www.linkedin.com/in/xiongbo010/"
+
+-   icon : "google-scholar"
+    icon_pack : "ai"
+    link : "https://scholar.google.com/citations?user=lmBXicIAAAAJ&hl=en"
 
 
 
@@ -65,10 +64,10 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "zhanghe_cgv at foxmail.com"
+email: "bo.xiong@ipvs.uni-stuttgart.de"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Alumni
+- PhD Students
 ---
