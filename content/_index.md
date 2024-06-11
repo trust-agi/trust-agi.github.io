@@ -73,20 +73,19 @@ sections:
   - block: markdown
     content:
       title:
-      subtitle: ''
+      subtitle: 
       text:        
     design:
       columns: '1'
       background:
         image: 
-          filename: team.jpg
+          filename: team2.jpeg
           filters:
-            brightness: 1
+            brightness: .8
           parallax: false
           position: center
           size: cover
           text_color_light: true
-
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
