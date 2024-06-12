@@ -30,7 +30,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="../post/phd-position/" cta_text="Join Us →" %}}
+        {{% cta cta_link="../openning/" cta_text="Join Us →" %}}
     design:
       columns: '1'
 ---
