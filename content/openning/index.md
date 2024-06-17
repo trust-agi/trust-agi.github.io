@@ -22,7 +22,7 @@ sections:
               #### Research Topics
               **Four Full PhD Scholarships** are available in 2024/2025. The scholarships cover both tuition fee and living stipends. We are looking for candidates to work on the following research topics.  See our recent publications for more details. Contact us if you are interested in one of these topics. 
               * <b> AI for Science </b> - <span style="color:red"> Top Priority</span>
-                  1. AI/LLMs/GNNs for Drug Discovery ([Nature Machine Intelligence 2024](https://www.biorxiv.org/content/10.1101/2023.09.17.558145v1))
+                  1. AI/LLMs/GNNs for Drug Discovery ([Nature Machine Intelligence 2024](https://www.nature.com/articles/s42256-024-00847-1))
               * <b> Large Language Models (LLMs) </b> 
                   1. LLMs and knowledge graphs ([ICLR-24](https://arxiv.org/abs/2310.01061), [TKDE-24](https://arxiv.org/abs/2306.08302)) - <span style="color:red"> Top Priority</span>
                   2. LLMs for time series analysis ([ICLR-24](https://arxiv.org/abs/2310.01728))
