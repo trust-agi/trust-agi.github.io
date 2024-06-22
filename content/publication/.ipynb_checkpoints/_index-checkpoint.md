@@ -15,5 +15,6 @@ sections:
         filename: 
       text: |
         <br>        
-        <script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2FmdDLtargKL3Zfdxmo&noBootstrap=1&jsonp=1&theme=side&commas=true&groupby=year&sort=-type"></script>
+        <script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2Ftrust-agi%2Ftrust-agi.github.io%2Fmain%2Fcontent%2Fpublication%2Fcitations-shirui-website.bib&commas=true&noBootstrap=1&jsonp=1&theme=side&commas=true&groupby=year&sort=-type"></script>
 ---
+
