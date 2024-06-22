@@ -12,7 +12,7 @@ sections:
       title: PhD Scholarships (2024/2025)
       subtitle: 
       text: |
-              **TrustAGI Lab** at Griffith University is a top research lab focusing on trustworthy artificial general AI research. We am looking for self-motivated Ph.D students funded by: 
+              **TrustAGI Lab** at Griffith University is a top research lab focusing on trustworthy artificial general Intelligence (AGI) research. We am looking for self-motivated Ph.D students funded by: 
               1. Griffith University, 
               2. Australian Research Council, 
               3. Other Grants (e.g., Griffith-CSC Scholarship)
