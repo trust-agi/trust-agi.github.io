@@ -20,7 +20,7 @@ sections:
 
               
               #### Research Topics
-              **Four Full PhD Scholarships** are available in 2024/2025. The scholarships cover both tuition fee and living stipends. We are looking for candidates to work on the following research topics.  See our recent publications for more details. Contact us if you are interested in one of these topics. 
+              **<span style="color:red">Four</span> Full PhD Scholarships** are available in 2024/2025. The scholarships cover both tuition fee and living stipends. We are looking for candidates to work on the following research topics.  See our recent publications for more details. Contact us if you are interested in one of these topics. 
               * <b> AI for Science </b> - <span style="color:red"> Top Priority</span>
                   1. AI/LLMs/GNNs for Drug Discovery ([Nature Machine Intelligence 2024](https://www.nature.com/articles/s42256-024-00847-1))
               * <b> Large Language Models (LLMs) </b> 
@@ -66,7 +66,7 @@ sections:
 
 
                 #### Contact
-                Please send us your <b> CV, transcripts, publication list, and research topics# (not have to be the one listed above) </b> that you are interested in. Due to large number of applications, We may only reply to selected applicants.
+                Please send us your <b> CV, transcripts, publication list, and research topics (not have to be the one listed above) </b> that you are interested in. Due to large number of applications, We may only reply to selected applicants.
 
 
                 Email: s.pan@griffith.edu.au
