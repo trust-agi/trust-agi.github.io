@@ -22,9 +22,10 @@ sections:
     content:
       title: Latest News
       subtitle: 
-      text: |  
+      text: |
+            * <span style="color:blue"> <b>[Celebration]: </b> </span> Group Retreat and Celebration of the Recent Achievements of TrustAGI. [See the Report](../../post/Celebration-June-2024.pdf) (6/2024).  
+            * <span style="color:red"> <b>[Nature Series x1]: </b> </span> Paper was published at <span style="color:red"> <b>Nature Machine Intelligence </b> </span>, featured on [Phys.org](https://phys.org/news/2024-06-ai-tool-rapid-effective-drug.html#google_vignette), [The Medical News](https://www.news-medical.net/news/20240619/Novel-AI-tool-poised-to-reshape-virtual-screening-in-early-stage-drug-discovery.aspx), and [Australian Manufacturing Magazine](https://www.australianmanufacturing.com.au/aussie-researchers-develop-game-changing-ai-for-drug-screening/). (6/2024).            
             * <span style="color:red"> <b>[KDD x4]: </b> </span> Four papers were accepted at <span style="color:red"> <b>KDD-24 (CORE A*/CCF A) </b> </span> (5/2024).
-            * <span style="color:red"> <b>[Nature Series x1]: </b> </span> Paper was accepted at <span style="color:red"> <b>Nature Machine Intelligence </b> </span> (4/2024).
             * <span style="color:red"> <b>[ICML x5]: </b> </span> Five papers were accepted at <span style="color:red"> <b>ICML-24(CORE A*/CCF A) </b> </span> (Shirui Pan x4, Leo Zhang x1) (4/2024).                
             * <span style="color:red"> <b>[IJCAI x7]: </b> </span> Seven papers were accepted at <span style="color:red"> <b>IJCAI-24(CORE A*/CCF A) </b> </span> (Shirui Pan x5, Leo Zhang x2) (4/2024).
             * <span style="color:red"> <b>[ICDE x1]: </b> </span> One paper on fairness and privacy of GNNs were accepted at <span style="color:red"> <b> ICDE </b> </span> (03/2024).    
