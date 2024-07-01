@@ -1,6 +1,6 @@
 ---
 title: Effective Multi-Task Self-Supervised Learning for Graph Anomaly Detection
-summary: Amazon Research Grant Success
+summary: Amazon Research Grant Success (2022)
 tags:
   - Trustworthy AI
 date: '2022-12-27T00:00:00Z'

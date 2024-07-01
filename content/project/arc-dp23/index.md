@@ -1,6 +1,6 @@
 ---
 title: Temporal Graph Mining for Anomaly Detection. 
-summary: ARC Discovery Project (2024)
+summary: ARC Discovery Project (2024-2026)
 tags:
   - Deep Learning
   - Trustworthy AI

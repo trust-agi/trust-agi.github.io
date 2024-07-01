@@ -1,6 +1,6 @@
 ---
 title: Enabling Automatic Graph Learning Pipelines with Limited Human Knowledge
-summary: ARC Future Fellowship 
+summary: ARC Future Fellowship (2022-2026)
 tags:
   - Deep Learning
   - Trustworthy AI
@@ -32,7 +32,7 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-**Grant:** ARC Future Fellowship (2022-2027)
+**Grant:** ARC Future Fellowship (2022-2026)
 
 **Description:** This project aims to develop an automatic graph learning system for complex graph data analysis. Machine learning for graph data commonly requires significant human knowledge from both domain professionals as well as algorithm experts, rendering existing systems ineffective and unexplainable. This project expects to design novel graph learning techniques which automatically infer graph relations, learn graph models, adapts existing knowledge to new domains, and provide explanations to the graph learning system. The research results should provide benefit to governments and businesses in many critical applications, such as bioassay activity prediction, credit assessment, and drug discovery and vaccine development in response to the pandemic.
 

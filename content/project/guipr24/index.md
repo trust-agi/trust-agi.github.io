@@ -1,6 +1,6 @@
 ---
 title: High-end GPU server for AI research - Nvidia DGX A100
-summary: Griffith University Research Infrastructure Program (GURIP)
+summary: Griffith University Research Infrastructure Program (GURIP) (2024)
 tags:
   - Deep Learning
 date: '2023-12-27T00:00:00Z'

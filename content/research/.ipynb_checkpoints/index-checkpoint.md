@@ -26,6 +26,8 @@ sections:
           tag: Deep Learning
         - name: Trustworthy AI
           tag: Trustworthy AI
+        - name: Health informatics
+          tag: Health informatics        
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'

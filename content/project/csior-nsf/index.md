@@ -1,6 +1,6 @@
 ---
 title: Towards Interpretable and Responsible Graph Modeling for Dynamic Systems
-summary: CSIRO-NSF Responsible AI Grant
+summary: CSIRO-NSF Responsible AI Grant (2023-2026)
 tags:
   - Trustworthy AI
 date: '2023-12-27T00:00:00Z'
