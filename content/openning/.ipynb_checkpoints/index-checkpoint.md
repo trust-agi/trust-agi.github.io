@@ -15,7 +15,7 @@ sections:
               **TrustAGI Lab** at Griffith University is a top research lab focusing on trustworthy artificial general Intelligence (AGI) research. We am looking for self-motivated Ph.D students funded by: 
               1. Griffith University, 
               2. Australian Research Council, 
-              3. Other Grants (e.g., Griffith-CSC Scholarship)
+              3. Other Grants (e.g., Griffith-China Scholarship Council (CSC) Scholarship).
 
 
               
@@ -44,7 +44,7 @@ sections:
 
               
               #### Institution
-              Griffith Uni ranks in the top 2 percent of universities globally with 50000 students spanning six campuses in South East Queensland, Australia. The [Computer Science & Engineering](https://www.shanghairanking.com/institution/griffith-university) at Griffith ranks in the top **76-100** globally. 
+              Griffith Uni ranks in the top 2 percent of universities globally with 50000 students spanning six campuses in South East Queensland, Australia. The [Computer Science & Engineering](https://www.shanghairanking.com/institution/griffith-university) at Griffith ranks in the top **76-100** globally (2023 statistics). 
 
                 * Times Higher Education Young University Rankings：33
                 * QS World University Rankings Top 50 Under 50 ：33
@@ -56,8 +56,9 @@ sections:
                 * A master degree with a <b> computer science </b> related background, and GPA > 85/100. Outstanding students with only undergraduate degree can also be considered, if GPA > 90/100.
                 * Outstanding English skills, e.g., IELTS 6.5 overall (no band less than 6.0), TOEFL IBT 79 + (no sub-score less than 19), PTE 58 (no sub-score less than 50).
                 * <span style="color:red"> A good publication track record, demonstrated by publications.</span>
-                  1.  at least one paper published in CORE [A*/A conference](http://portal.core.edu.au/conf-ranks/) or JCR Q1 Journal, or
-                  2. at least one paper published in CCF A/B veneues
+                  1.  at least one paper published in [CORE ranked A*/A conferences](http://portal.core.edu.au/conf-ranks/) or JCR Q1 Journals, or
+                  2. at least one paper published in [CCF ranked A/B veneues](https://www.aminer.org/ranks/conf?domain_ids=all&type=ccf&search=&metric=ccf_level&order=descend&ccf_level=A,B,C,other&category=Conference).
+                * Special considerations will be given to applicants for the [CSC scholarships](https://www.griffith.edu.au/research-study/scholarships/csc-gu-phd-scholarship).
   
   
   
@@ -78,10 +79,12 @@ sections:
       subtitle: 
       text: |
               We have multiple visitor positions each year. Contact us if               
-              1. your backgournds aligns well with ours, 
+              1. your backgournds align well with ours, 
               2. you are self-funded, 
               3. the visit is no less than 6 months.
               
-              We welcome visiting students supported by CSC or their universities. We have multiple faculty academics in the lab. For the CSC visiting request, each year each academic in the lab can only host **2** visiting students per CSC requirement. 
-      
+              We welcome visiting students supported by CSC or their universities. We have multiple faculty academics in the lab. For the CSC visiting request, each year each academic in the lab can only host **2** visiting students per CSC requirements. 
+              
+              Email: s.pan@griffith.edu.au
+    
 ---
