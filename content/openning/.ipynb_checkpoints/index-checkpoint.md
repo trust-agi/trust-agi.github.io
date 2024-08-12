@@ -12,7 +12,7 @@ sections:
       title: PhD Scholarships (2024/2025)
       subtitle: 
       text: |
-              **TrustAGI Lab** at Griffith University is a top research lab focusing on trustworthy artificial general Intelligence (AGI) research. We am looking for self-motivated Ph.D students funded by: 
+              **TrustAGI Lab** at Griffith University is a top research lab focusing on trustworthy artificial general Intelligence (AGI) research. We are looking for self-motivated Ph.D students funded by: 
               1. Griffith University, 
               2. Australian Research Council, 
               3. Other Grants (e.g., Griffith-China Scholarship Council (CSC) Scholarship).
@@ -34,7 +34,7 @@ sections:
                   3. Knowledge Graphs ([SIGIR-23](https://arxiv.org/abs/2304.08183))
                   4. Graph Anomaly Deetction ([NeurIPS-23](https://arxiv.org/abs/2310.16520))
               * <b> Time Series and Spatio-Temporal Data Mining </b>
-                  1. Time Series Analysis ([ICLR-24](https://arxiv.org/abs/2310.01728))
+                  1. Time Series Analysis ([ICLR-24](https://arxiv.org/abs/2310.01728)[TPAMI-24](https://arxiv.org/abs/2307.03759))
                   2. Spatio-Temporal Data Mining ([ICML-24](https://arxiv.org/abs/2402.02713))
               * <b> Trustworthy AI </b>
                   1. Robust and Safe Machine Learning ([ICML-23](https://proceedings.mlr.press/v202/zhang23aq/zhang23aq.pdf))
@@ -67,7 +67,7 @@ sections:
 
 
                 #### Contact
-                Please send us your <b> CV, transcripts, publication list, and research topics (not have to be the one listed above) </b> that you are interested in. Due to large number of applications, We may only reply to selected applicants.
+                Please send us your <b> CV, transcripts, publication list, and research topics (not have to be the one listed above) </b> that you are interested in. Due to large number of applications, we may only reply to selected applicants.
 
 
                 Email: s.pan@griffith.edu.au
