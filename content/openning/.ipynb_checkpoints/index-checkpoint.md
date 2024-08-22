@@ -34,7 +34,7 @@ sections:
                   3. Knowledge Graphs ([SIGIR-23](https://arxiv.org/abs/2304.08183))
                   4. Graph Anomaly Deetction ([NeurIPS-23](https://arxiv.org/abs/2310.16520))
               * <b> Time Series and Spatio-Temporal Data Mining </b>
-                  1. Time Series Analysis ([ICLR-24](https://arxiv.org/abs/2310.01728)[TPAMI-24](https://arxiv.org/abs/2307.03759))
+                  1. Time Series Analysis ([ICLR-24](https://arxiv.org/abs/2310.01728), [TPAMI-24](https://arxiv.org/abs/2307.03759))
                   2. Spatio-Temporal Data Mining ([ICML-24](https://arxiv.org/abs/2402.02713))
               * <b> Trustworthy AI </b>
                   1. Robust and Safe Machine Learning ([ICML-23](https://proceedings.mlr.press/v202/zhang23aq/zhang23aq.pdf))
