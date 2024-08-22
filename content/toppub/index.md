@@ -1,6 +1,6 @@
 ---
 # Page title
-title: Joining Us
+title: Top Ten Publications
 # Page type - we want a landing page (such as a homepage)
 type: landing
 
@@ -9,10 +9,10 @@ sections:
   - block: markdown
     id: openning
     content:
-      title: Top 10 Publications
+      title: Selected Publications
       subtitle: 
       text: |
-              See Shirui's **Top 10** Publications below. In the following papers, the first-author is either Shirui or his Phd student. A full list of Shirui's publication can be seen [here](https://scholar.google.com.au/citations?user=frWRJN4AAAAJ&hl=enJ). 
+              See a selection of Shirui's **10** publications below. Check out for more information about [TrustAGI Lab](https://trust-agi.github.io/). 
 
 
               
