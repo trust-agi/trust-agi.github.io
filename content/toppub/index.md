@@ -28,8 +28,8 @@ sections:
 
               #### Group 3: Highly Cited Papers
                 6.	Wu, Z., Pan, S., Long, G., Jiang, J., Zhang, C., 2019. Graph WaveNet for Deep Spatial-Temporal Graph Modeling, in: International Joint Conference on Artificial Intelligence (IJCAI), **IJCAI-19**. [CORE A*; Corresponding Author; <span style="color:red"> **2,000+** Citations; \#1 most cited IJCAI 2019 paper by June 2024</span>]
-                7.	Wu, Z., **Pan, S.**, Long, G., Jiang, J., Chang, X., Zhang, C., 2020. Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks, in: ACM SIGKDD Conference on Knowledge Discovery and Data Mining, **KDD-20**. [CORE A*; Corresponding Author; <span style="color:red"> **1, 200+** Citations, \#1 most cited KDD 2020 paper by June 2024</span>]
-                8.	Pan, S., Hu, R., Long, G., Jiang, J., Yao, L., Zhang, C., 2018. Adversarially Regularized Graph Autoencoder for Graph Embedding, in: International Joint Conference on Artificial Intelligence, **IJCAI-18**. pp. 2609–2615. [CORE A*; Corresponding Author; <span style="color:red"> **1000+** Citations</span>]
+                7.	Wu, Z., **Pan, S.**, Long, G., Jiang, J., Chang, X., Zhang, C., 2020. Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks, in: ACM SIGKDD Conference on Knowledge Discovery and Data Mining, **KDD-20**. [CORE A*; Corresponding Author; <span style="color:red"> **1,200+** Citations, \#1 most cited KDD 2020 paper by June 2024</span>]
+                8.	Pan, S., Hu, R., Long, G., Jiang, J., Yao, L., Zhang, C., 2018. Adversarially Regularized Graph Autoencoder for Graph Embedding, in: International Joint Conference on Artificial Intelligence, **IJCAI-18**. pp. 2609–2615. [CORE A*; Corresponding Author; <span style="color:red"> **1,000+** Citations</span>]
 
 
               #### Group 4: Top Conference Papers
