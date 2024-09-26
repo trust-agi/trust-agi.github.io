@@ -23,6 +23,7 @@ sections:
       title: Latest News
       subtitle: 
       text: |
+            * <span style="color:red"> <b>[NeurIPS x5]: </b> </span> Five papers were accepted at <span style="color:red"> <b>NeurIPS-24 (CORE A*/CCF A) </b> </span> (9/2024).      
             * <span style="color:blue"> <b>[Celebration]: </b> </span> Group Retreat and Celebration of the Recent Achievements of TrustAGI. [Read the Report](../../post/Celebration-June-2024.pdf) (6/2024).  
             * <span style="color:red"> <b>[Nature Series x1]: </b> </span> Paper was published at <span style="color:red"> <b>Nature Machine Intelligence </b> </span>, featured on [Phys.org](https://phys.org/news/2024-06-ai-tool-rapid-effective-drug.html#google_vignette), [The Medical News](https://www.news-medical.net/news/20240619/Novel-AI-tool-poised-to-reshape-virtual-screening-in-early-stage-drug-discovery.aspx), and [Australian Manufacturing Magazine](https://www.australianmanufacturing.com.au/aussie-researchers-develop-game-changing-ai-for-drug-screening/). (6/2024).            
             * <span style="color:red"> <b>[KDD x4]: </b> </span> Four papers were accepted at <span style="color:red"> <b>KDD-24 (CORE A*/CCF A) </b> </span> (5/2024).
