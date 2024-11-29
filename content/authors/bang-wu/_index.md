@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoc @ CSIRO's Data61 
+role: Assistant Prof @ RMIT 
 
 # Organizations/Affiliations
 organizations:

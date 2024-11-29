@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD 
+role: Research Fellow @ RMIT 
 
 # Organizations/Affiliations
 organizations:

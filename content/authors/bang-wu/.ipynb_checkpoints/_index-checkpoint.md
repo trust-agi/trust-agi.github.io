@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student @ Monash (08/2020-)
+role: Assistant Prof @ RMIT 
 
 # Organizations/Affiliations
 organizations:
@@ -29,6 +29,9 @@ interests:
 
 education:
   courses:
+  - course: PhD
+    institution: Monash University
+    year: 2020-2023
   - course: M.S in Electrical Engineering
     institution: The University of Melbourne
     year: 2018
@@ -67,5 +70,5 @@ email: "jabby323 at gmail.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- PhD Students
+- Alumni
 ---

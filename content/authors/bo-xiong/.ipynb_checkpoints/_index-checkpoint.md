@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student @ Universität Stuttgart (09/2020-)
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
@@ -27,12 +27,16 @@ interests:
 
 education:
   courses:
-  - course: Bachelors of Engineering
-    institution: Beijing Jiaotong University
-    year: 2018
+  - course: Doctor of Philosophy
+    institution: Universität Stuttgart
+    year: 2024
   - course: Masters of Engineering
     institution: Beijing Jiaotong University
     year: 2020
+  - course: Bachelors of Engineering
+    institution: Beijing Jiaotong University
+    year: 2018
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -69,5 +73,5 @@ email: "bo.xiong@ipvs.uni-stuttgart.de"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- PhD Students
+- Alumni
 ---
