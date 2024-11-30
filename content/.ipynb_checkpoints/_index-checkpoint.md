@@ -23,22 +23,24 @@ sections:
       title: Latest News
       subtitle: 
       text: |
-            <details>
-            <summary><span style="color:red"> <b>[NeurIPS x5]: </b> </span>Five papers were accepted at <span style="color:red"> <b>NeurIPS-24 (CORE A*/CCF A) </b> </span> (09/2024) [<span style="color:red"> <b>Click for more Info.</b> </span>]</summary>
+            * <span style="color:orange"> <b>[Celebration]: </b> </span>Shirui Pan Honored with the 2024 [AI's 10 to Watch](https://www.computer.org/ai10) by IEEE Computer Society (12/2024).
+            * <span style="color:orange"> <b>[Celebration]: </b> </span>Shirui Pan Received the [2024 IEEE ICDM Tao Li Award](https://www.cse.fau.edu/~xqzhu/taoliaward/icdm-tao-li-award.html) (12/2024). 
+                <details>
+                <summary><span style="color:red"> <b>[NeurIPS x5]: </b> </span>Five papers were accepted at <span style="color:red"> <b>NeurIPS-24 (CORE A*/CCF A) </b> </span> (09/2024) [<span style="color:red"> <b>Click for more Info.</b> </span>]</summary>
 
-            * ARC: A Generalist Graph Anomaly Detector with In-Context Learning, *Yixin Liu, Shiyuan Li, Yu Zheng, Qingfeng Chen, Chengqi Zhang, Shirui Pan*. 
-            * Large Language Models-guided Dynamic Adaptation for Temporal Knowledge Graph Reasoning, *Jiapu Wang, Kai Sun, Linhao Luo, Wei Wei, Yongli Hu, Alan Wee-Chung Liew, Shirui Pan, Baocai Yin*.
-            * Attractor Memory for Long-Term Time Series Forecasting: A Chaos Perspective, *Jiaxi Hu, Yuehong HU, Wei Chen, Ming Jin, Shirui Pan, Qingsong Wen, Yuxuan Liang*.
-            * EGonc : Energy-based Open-Set Node Classification with substitute Unknowns, *Qin Zhang, Zelin Shi, Shirui Pan, Junyang Chen, Huisi Wu, Xiaojun Chen*.
-            * Uncovering the Redundancy in Graph Self-supervised Learning Models, *Zhibiao Wang, Xiao Wang, Haoyue Deng, Nian Liu, Shirui Pan, Chunming Hu*.
-            </details> 
-                
-            <details>
-            <summary><span style="color:blue"> <b>[Celebration]: </b> </span>Researchers are recognised as World top 2% Scientists by Stanford University (09/2024) [<span style="color:red"> <b>Click for more Info.</b> </span>]</summary>
+                * ARC: A Generalist Graph Anomaly Detector with In-Context Learning, *Yixin Liu, Shiyuan Li, Yu Zheng, Qingfeng Chen, Chengqi Zhang, Shirui Pan*. 
+                * Large Language Models-guided Dynamic Adaptation for Temporal Knowledge Graph Reasoning, *Jiapu Wang, Kai Sun, Linhao Luo, Wei Wei, Yongli Hu, Alan Wee-Chung Liew, Shirui Pan, Baocai Yin*.
+                * Attractor Memory for Long-Term Time Series Forecasting: A Chaos Perspective, *Jiaxi Hu, Yuehong HU, Wei Chen, Ming Jin, Shirui Pan, Qingsong Wen, Yuxuan Liang*.
+                * EGonc : Energy-based Open-Set Node Classification with substitute Unknowns, *Qin Zhang, Zelin Shi, Shirui Pan, Junyang Chen, Huisi Wu, Xiaojun Chen*.
+                * Uncovering the Redundancy in Graph Self-supervised Learning Models, *Zhibiao Wang, Xiao Wang, Haoyue Deng, Nian Liu, Shirui Pan, Chunming Hu*.
+                </details> 
 
-            * Shirui Pan - <span style="color:red"> <b> [Career-Long Impact](https://jokergoooo.shinyapps.io/top2pct_scientists/) </b> </span> list and <span style="color:red"> <b> Single-Year Impact</b> </span> list (2023)
-            * Alan Liew - <span style="color:red"> <b> [Career-Long Impact](https://jokergoooo.shinyapps.io/top2pct_scientists/) </b></span> list
-            </details> 
+                <details>
+                <summary><span style="color:blue"> <b>[Celebration]: </b> </span>Researchers are recognised as World top 2% Scientists by Stanford University (09/2024) [<span style="color:red"> <b>Click for more Info.</b> </span>]</summary>
+
+                * Shirui Pan - <span style="color:red"> <b> [Career-Long Impact](https://jokergoooo.shinyapps.io/top2pct_scientists/) </b> </span> list and <span style="color:red"> <b> Single-Year Impact</b> </span> list (2023)
+                * Alan Liew - <span style="color:red"> <b> [Career-Long Impact](https://jokergoooo.shinyapps.io/top2pct_scientists/) </b></span> list
+                </details> 
             
             * <span style="color:blue"> <b>[Celebration]: </b> </span> Group Retreat and Celebration of the Recent Achievements of TrustAGI. [Read the Report](../../post/Celebration-June-2024.pdf) (6/2024).  
             * <span style="color:red"> <b>[Nature Series x1]: </b> </span> Paper was published at <span style="color:red"> <b>Nature Machine Intelligence </b> </span>, featured on [Phys.org](https://phys.org/news/2024-06-ai-tool-rapid-effective-drug.html#google_vignette), [The Medical News](https://www.news-medical.net/news/20240619/Novel-AI-tool-poised-to-reshape-virtual-screening-in-early-stage-drug-discovery.aspx), and [Australian Manufacturing Magazine](https://www.australianmanufacturing.com.au/aussie-researchers-develop-game-changing-ai-for-drug-screening/). (6/2024).            
