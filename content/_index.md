@@ -23,8 +23,9 @@ sections:
       title: Latest News
       subtitle: 
       text: |
-            * <span style="color:orange"> <b>[Celebration]: </b> </span>Shirui Pan Honored with the 2024 [AI's 10 to Watch](https://www.computer.org/ai10) by IEEE Computer Society (12/2024).
-            * <span style="color:orange"> <b>[Celebration]: </b> </span>Shirui Pan Received the [2024 IEEE ICDM Tao Li Award](https://www.cse.fau.edu/~xqzhu/taoliaward/icdm-tao-li-award.html) (12/2024). 
+            * <span style="color:red"> <b>[Nature Series x1]: </b> </span> Paper was accepted to <span style="color:red"> <b>Nature Machine Intelligence </b> </span>(12/2024).                  
+            * <span style="color:blue"> <b>[Celebration]: </b> </span>Shirui Pan Honored with the 2024 [AI's 10 to Watch Award](https://www.computer.org/ai10) by IEEE Computer Society (12/2024).
+            * <span style="color:blue"> <b>[Celebration]: </b> </span>Shirui Pan Received the [2024 IEEE ICDM Tao Li Award](https://www.cse.fau.edu/~xqzhu/taoliaward/icdm-tao-li-award.html) (12/2024). 
                 <details>
                 <summary><span style="color:red"> <b>[NeurIPS x5]: </b> </span>Five papers were accepted at <span style="color:red"> <b>NeurIPS-24 (CORE A*/CCF A) </b> </span> (09/2024) [<span style="color:red"> <b>Click for more Info.</b> </span>]</summary>
 
