@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoc
+role: Postdoc@Stanford U
 
 # Organizations/Affiliations
 organizations:
