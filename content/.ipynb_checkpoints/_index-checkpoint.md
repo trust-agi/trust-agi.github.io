@@ -23,7 +23,16 @@ sections:
       title: Latest News
       subtitle: 
       text: |
-            * <span style="color:red"> <b>[Nature Series x1]: </b> </span> Paper was accepted to <span style="color:red"> <b>Nature Machine Intelligence </b> </span>(12/2024).                  
+            * <span style="color:red"> <b>[Nature Series x1]: </b> </span> Paper on _AI4Science_ was accepted to <span style="color:red"> <b>Nature Machine Intelligence </b> </span>(01/2025). 
+            * <span style="color:red"> <b>[ICLR x3]: </b> </span> Three papers were accepted at <span style="color:red"> <b>ICLR-25(CORE A*/CCF A) </b> </span> (01/2025).                                        
+            * <span style="color:red"> <b>[WWW x2]: </b> </span> Two papers were accepted at <span style="color:red"> <b>TheWebConf(WWW)-25(CORE A*/CCF A) </b> </span> (01/2025).                            
+            * <span style="color:red"> <b>[AAAI x9]: </b> </span> Nine papers were accepted at <span style="color:red"> <b>AAAI-25(CORE A*/CCF A) </b> </span> (Shirui Pan x6, Leo Zhang x3) (12/2024).                
+      
+      
+      
+            <details>
+            <summary>More News (2024)</summary>
+    
             * <span style="color:blue"> <b>[Celebration]: </b> </span>Shirui Pan Honored with the 2024 [AI's 10 to Watch Award](https://www.computer.org/ai10) by IEEE Computer Society (12/2024).
             * <span style="color:blue"> <b>[Celebration]: </b> </span>Shirui Pan Received the [2024 IEEE ICDM Tao Li Award](https://www.cse.fau.edu/~xqzhu/taoliaward/icdm-tao-li-award.html) (12/2024). 
             *   <details>
@@ -54,9 +63,10 @@ sections:
             * <span style="color:red"> <b>[S&P x4]: </b> </span> Four papers on security and privacy of GNNs were accepted at <span style="color:red"> <b>IEEE S&P-2024(CORE A*/CCFA, Top Security Conferences) </b> </span> (Shirui Pan x1, Leo Zhang x3)(11/2023). 
             * <span style="color:red"> <b>[NDSS x1]: </b> </span> One paper on security and privacy of GNNs was accepted at <span style="color:red"> <b>NDSS-2024 (CORE A*/CCF A, Top Security Conferences) </b> </span> (11/2023).    
             * <span style="color:red"> <b>[TKDE x1]: </b> </span> [A Roadmap on Unifying LLMs and Knowledge Graphs](https://arxiv.org/pdf/2306.08302.pdf) is released (01/2024).                
+            </details>
                
-            <details>
-            <summary>More News</summary>
+            <details>                
+            <summary>More News (2023)</summary>
 
             * <span style="color:red"> <b>[NeurIPS x3]: </b> </span> Three papers on graph neural networks were accepted at <span style="color:red"> <b>NeurIPS-23 </b> </span> (09/2023).
             * <span style="color:red"> <b>[IJCNN-Tutorial]: </b> </span> A [tutorial on Graph Self-supervised Learning](../../post/GSSL_tutorial.pdf) presented at<span style="color:red"> <b> IJCNN-2023 </b> </span> (07/2023).
