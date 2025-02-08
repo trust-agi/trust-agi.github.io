@@ -23,11 +23,14 @@ sections:
       title: Latest News
       subtitle: 
       text: |
-            * <span style="color:red"> <b>[Nature Series x1]: </b> </span> Paper on _AI4Science_ was accepted to <span style="color:red"> <b>Nature Machine Intelligence </b> </span>(01/2025). 
+            <details open>
+            <summary>Recent News (2025)</summary>    
+    
+            * <span style="color:red"> <b>[Nature Series x1]: </b> </span> Paper on _AI4Science_ was accepted to <span style="color:red"> <b>Nature Machine Intelligence </b> </span>, the second NMI paper in 8 months (01/2025). 
             * <span style="color:red"> <b>[ICLR x3]: </b> </span> Three papers were accepted at <span style="color:red"> <b>ICLR-25(CORE A*/CCF A) </b> </span> (01/2025).                                        
             * <span style="color:red"> <b>[WWW x2]: </b> </span> Two papers were accepted at <span style="color:red"> <b>TheWebConf(WWW)-25(CORE A*/CCF A) </b> </span> (01/2025).                            
             * <span style="color:red"> <b>[AAAI x9]: </b> </span> Nine papers were accepted at <span style="color:red"> <b>AAAI-25(CORE A*/CCF A) </b> </span> (Shirui Pan x6, Leo Zhang x3) (12/2024).                
-      
+            </details>       
       
       
             <details>

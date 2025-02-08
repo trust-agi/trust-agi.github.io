@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student @ Tianjin U. (07/2020-)
+role: PhD
 
 # Organizations/Affiliations
 organizations:
@@ -28,6 +28,9 @@ interests:
 
 education:
   courses:
+  - course: Ph.D in Computer Science
+    institution: Tianjin University
+    year: 2024 
   - course: M.S in Computer Science
     institution: Northeast Normal University
     year: 2020
@@ -67,5 +70,5 @@ email: "wangluzhi at tju.edu.cn"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- PhD Students
+- Alumni
 ---
