@@ -50,7 +50,7 @@ sections:
                 | 14 | Man Wu       | PhD        | 2022     | E           |          Florida Atlantic University (US)                                      |        Assistant Prof @ U. Sci&Tec Beijing                |
                 | 15 | Chun Wang    | Phd        | 2021     | O           | University of Technology Sydney (AU)                                           |        Assistant Professor @ City University of Macau     |
                 | 16 | Guojia Wan   | Phd        | 2021     | E           | Wuhan University (CN)                                                          | Postdoc @ Wuhan University                                |
-                | 17 | Hong Yang    | PhD        | 2020     | O           | University of Technology Sydney (AU)                                           | Assistant Prof @ Guangzhou University                     |
+                | 17 | Hong Yang    | PhD        | 2020     | O           | University of Technology Sydney (AU)                                           | Associate Prof @ Guangzhou University                     |
                 | 18 | Ruiqi Hu     | Phd        | 2020     | O           | University of Technology Sydney (AU)                                           | CEO                                                       |
                 | 19 | [Shaoxiong Ji](https://scholar.google.com/citations?user=t3ZA0WsAAAAJ&hl=en) | Mphil      | 2019     | E           |                          The University of Queensland (AU)                     |        Assistant Prof @ Technical University of Darmstadt |
 
