@@ -34,14 +34,14 @@ sections:
               It is my great honour to have supervised the following students to complete their theses (**E**: External Supervisor; **O**: Official Supervisor).   
                 |    | **Name**     | **Degree** | **Year** | **My Role** | **Gradute  University (Country)**                                              | **Position (Now)**                                        |
                 |----|--------------|------------|----------|-------------|--------------------------------------------------------------------------------|-----------------------------------------------------------|
-                | 1  | [Luzhi Wang](https://scholar.google.com/citations?user=scbRgYwAAAAJ&hl=en)   | PhD        | 2025     | E           | Tianjin Uiversity (CN)                                                         | Assistant Prof @ Dalian Maritime University                                                       |
+                | 1  | [Luzhi Wang](https://scholar.google.com/citations?user=scbRgYwAAAAJ&hl=en)   | PhD        | 2025     | E           | Tianjin Uiversity (CN)                                                         | A/Prof @ Dalian Maritime University                                                       |
                 | 2  | [Ming Jin](https://mingjin.dev/)     | PhD        | 2024     | O           | Monash University (AU)                                                         | Assistant Prof @ Griffith University                      |
                 | 3  | [Xin Zheng](https://amanda-zheng.github.io/)    | PhD        | 2024     | O           | Monash University (AU)                                                         | Assistant Prof @ Griffith University                      |
                 | 4  | [Yixin Liu](https://yixinliu233.github.io/)    | PhD        | 2024     | O           | Monash University (AU)                                                         | Research Fellow @ Griffith University                     |
                 | 5  | [He Zhang](https://scholar.google.com/citations?user=ry0HxBQAAAAJ&hl=en)     | PhD        | 2024     | O           | Monash University (AU)                                                         | Research Fellow @ RMIT                                    |
                 | 6  | Guangsi Shi  | PhD        | 2024     | O           | Monash University (AU)                                                         | AI Scientist @ Midea                                      |
                 | 7  | [Bo Xiong](https://boxiong.io/)     | PhD        | 2024     | E           |        Universität   Stuttgart (DE)                                            | Research Fellow @ Stanford U                              |
-                | 8  | Dongran Yu   | PhD        | 2024     | E           | Jilin University (CN)                                                          | TBA                                                       |
+                | 8  | Dongran Yu   | PhD        | 2024     | E           | Jilin University (CN)                                                          | Postdoc @ Guangxi Normal U.                                                       |
                 | 9  | [Bang Wu](https://scholar.google.com/citations?user=XwgdW5sAAAAJ&hl=zh-CN)      | PhD        | 2023     | O           | Monash University (AU)                                                         | Assistant Prof @ RMIT                                     |
                 | 10 | Sheng  Wan   | PhD        | 2023     | E           |          Nanjing University of Science and   Technology (CN)                   | Postdoc @ NUST                                            |
                 | 11 | [Miao Zhang](https://scholar.google.com/citations?user=6EUV_UMAAAAJ&hl=en)   | PhD        | 2022     | O           | University of Technology Sydney (AU)                                           |        Professor @ Harbin Institute of Technology         |
@@ -57,7 +57,7 @@ sections:
                 **Visiting Students/Scholars**
                 |   | Name       | Visiting  Peorid | Univeristy                             |
                 |---|------------|------------------|----------------------------------------|
-                | 1 | Jiapu Wang | 2024.1-2025.1    | Beijing university of Technology       |
+                | 1 | Jiapu Wang | 2024.1-2025.1    | Beijing University of Technology       |
                 | 2 | Yili Wang  | 2023.12-2024.12  | Jilin University                       |
                 | 3 | Bing Yang  | 2023.12-2024.12  | China Jiliang University               |
                 | 4 | Yazhou Shi | 2024.1-2025.1    |          Wuhan   Textile University    |               
