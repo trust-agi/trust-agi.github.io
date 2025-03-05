@@ -32,27 +32,28 @@ sections:
               **PhD/MPhil Graduates:** 
               
               It is my great honour to have supervised the following students to complete their theses (**E**: External Supervisor; **O**: Official Supervisor).   
-                |    | **Name**     | **Degree** | **Year** | **My Role** | **Gradute  University (Country)**                                              | **Position (Now)**                                        |
-                |----|--------------|------------|----------|-------------|--------------------------------------------------------------------------------|-----------------------------------------------------------|
-                | 1  | [Luzhi Wang](https://scholar.google.com/citations?user=scbRgYwAAAAJ&hl=en)   | PhD        | 2025     | E           | Tianjin Uiversity (CN)                                                         | A/Prof @ Dalian Maritime University                                                       |
-                | 2  | [Ming Jin](https://mingjin.dev/)     | PhD        | 2024     | O           | Monash University (AU)                                                         | Assistant Prof @ Griffith University                      |
-                | 3  | [Xin Zheng](https://amanda-zheng.github.io/)    | PhD        | 2024     | O           | Monash University (AU)                                                         | Assistant Prof @ Griffith University                      |
-                | 4  | [Yixin Liu](https://yixinliu233.github.io/)    | PhD        | 2024     | O           | Monash University (AU)                                                         | Research Fellow @ Griffith University                     |
-                | 5  | [He Zhang](https://scholar.google.com/citations?user=ry0HxBQAAAAJ&hl=en)     | PhD        | 2024     | O           | Monash University (AU)                                                         | Research Fellow @ RMIT                                    |
-                | 6  | Guangsi Shi  | PhD        | 2024     | O           | Monash University (AU)                                                         | AI Scientist @ Midea                                      |
-                | 7  | [Bo Xiong](https://boxiong.io/)     | PhD        | 2024     | E           |        Universität   Stuttgart (DE)                                            | Research Fellow @ Stanford U                              |
-                | 8  | Dongran Yu   | PhD        | 2024     | E           | Jilin University (CN)                                                          | Postdoc @ Guangxi Normal U.                                                       |
-                | 9  | [Bang Wu](https://scholar.google.com/citations?user=XwgdW5sAAAAJ&hl=zh-CN)      | PhD        | 2023     | O           | Monash University (AU)                                                         | Assistant Prof @ RMIT                                     |
-                | 10 | Sheng  Wan   | PhD        | 2023     | E           |          Nanjing University of Science and   Technology (CN)                   | Postdoc @ NUST                                            |
-                | 11 | [Miao Zhang](https://scholar.google.com/citations?user=6EUV_UMAAAAJ&hl=en)   | PhD        | 2022     | O           | University of Technology Sydney (AU)                                           |        Professor @ Harbin Institute of Technology         |
-                | 12 | [Zonghan Wu](https://scholar.google.com/citations?user=SzH0tgMAAAAJ&hl=en)   | PhD        | 2022     | O           | University of Technology Sydney (AU)                                           | Assistant Prof @ East China Normal U.                     |
-                | 13 | Shichao Zhu  | PhD        | 2022     | E           |        Chinese Academy of Sciences (CN)                                        | Data Scientist @ ByteDance                                |
-                | 14 | Man Wu       | PhD        | 2022     | E           |          Florida Atlantic University (US)                                      |        Assistant Prof @ U. Sci&Tec Beijing                |
-                | 15 | Chun Wang    | Phd        | 2021     | O           | University of Technology Sydney (AU)                                           |        Assistant Professor @ City University of Macau     |
-                | 16 | Guojia Wan   | Phd        | 2021     | E           | Wuhan University (CN)                                                          | Postdoc @ Wuhan University                                |
-                | 17 | Hong Yang    | PhD        | 2020     | O           | University of Technology Sydney (AU)                                           | Associate Prof @ Guangzhou University                     |
-                | 18 | Ruiqi Hu     | Phd        | 2020     | O           | University of Technology Sydney (AU)                                           | CEO                                                       |
-                | 19 | [Shaoxiong Ji](https://scholar.google.com/citations?user=t3ZA0WsAAAAJ&hl=en) | Mphil      | 2019     | E           |                          The University of Queensland (AU)                     |        Assistant Prof @ Technical University of Darmstadt |
+                |    | **Name**     | **Degree**           | **Year** | **My Role** | **Gradute  University (Country)**                 | **Position (Now)**                                 |
+                |----|--------------|----------------------|----------|-------------|---------------------------------------------------|----------------------------------------------------|
+                | 1  | Yizhen Zheng | PhD Thesis Submitted | 2025     | O           | Monash University (AU)                            | Research Fellow @ Monash                           |
+                | 2  | Luzhi Wang   | PhD                  | 2025     | E           | Tianjin Uiversity (CN)                            | Associate Prof @ Dalian Maritime Uni.              |
+                | 3  | Ming Jin     | PhD                  | 2024     | O           | Monash University (AU)                            | Assistant Prof @ Griffith University               |
+                | 4  | Xin Zheng    | PhD                  | 2024     | O           | Monash University (AU)                            | Assistant Prof @ Griffith University               |
+                | 5  | Yixin Liu    | PhD                  | 2024     | O           | Monash University (AU)                            | Research Fellow @ Griffith University              |
+                | 6  | He Zhang     | PhD                  | 2024     | O           | Monash University (AU)                            | Research Fellow @ RMIT                             |
+                | 7  | Guangsi Shi  | PhD                  | 2024     | O           | Monash University (AU)                            | AI Scientist @ Midea                               |
+                | 8  | Bo Xiong     | PhD                  | 2024     | E           | Universität Stuttgart (DE)                        | Research Fellow @ Stanford U                       |
+                | 9  | Dongran Yu   | PhD                  | 2024     | E           | Jilin University (CN)                             | Postdoc @ Guangxi Normal U.                        |
+                | 10 | Bang Wu      | PhD                  | 2023     | O           | Monash University (AU)                            | Assistant Prof @ RMIT                              |
+                | 11 | Sheng  Wan   | PhD                  | 2023     | E           | Nanjing University of Science and Technology (CN) | Postdoc @ NUST                                     |
+                | 12 | Miao Zhang   | PhD                  | 2022     | O           | University of Technology Sydney (AU)              | Professor @ Harbin Institute of Technology         |
+                | 13 | Zonghan Wu   | PhD                  | 2022     | O           | University of Technology Sydney (AU)              | Assistant Prof @ East China Normal U.              |
+                | 14 | Shichao Zhu  | PhD                  | 2022     | E           | Chinese Academy of Sciences (CN)                  | Data Scientist @ ByteDance                         |
+                | 15 | Man Wu       | PhD                  | 2022     | E           | Florida Atlantic University (US)                  | Assistant Prof @ U. Sci&Tec Beijing                |
+                | 16 | Chun Wang    | Phd                  | 2021     | O           | University of Technology Sydney (AU)              | Assistant Professor @ City University of Macau     |
+                | 17 | Guojia Wan   | Phd                  | 2021     | E           | Wuhan University (CN)                             | Postdoc @ Wuhan University                         |
+                | 18 | Hong Yang    | PhD                  | 2020     | O           | University of Technology Sydney (AU)              | Associate Prof @ Guangzhou University              |
+                | 19 | Ruiqi Hu     | Phd                  | 2020     | O           | University of Technology Sydney (AU)              | CEO                                                |
+                | 20 | Shaoxiong Ji | Mphil                | 2019     | E           | The University of Queensland (AU)                 | Assistant Prof @ Technical University of Darmstadt |
 
                 **Visiting Students/Scholars**
                 |   | Name       | Visiting  Peorid | Univeristy                             |
