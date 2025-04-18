@@ -25,7 +25,7 @@ sections:
       text: |
             <details open>
             <summary>Recent News (2025)</summary>    
-    
+            * <span style="color:red"> <b>[Nature Series x1]: </b> </span> Paper on _AI4Science_ was accepted. Stay tuned for more information. (04/2025).     
             * <span style="color:red"> <b>[Nature Series x1]: </b> </span> Paper on _AI4Science_ was accepted to <span style="color:red"> <b>[Nature Machine Intelligence](https://rdcu.be/ebbY3) </b> </span>, the second NMI paper in 8 months (02/2025). 
             * <span style="color:blue"> <b>[Celebration]: </b> </span>Shirui Pan Honored with the 2024 [AI's 10 to Watch Award](https://www.computer.org/publications/tech-news/insider-membership-news/2024-top-10-to-watch-announced?source=socialmedia) by IEEE Computer Society (02/2025).    
             * <span style="color:red"> <b>[ICLR x3]: </b> </span> Three papers were accepted at <span style="color:red"> <b>ICLR-25(CORE A*/CCF A) </b> </span> (01/2025).                                        
