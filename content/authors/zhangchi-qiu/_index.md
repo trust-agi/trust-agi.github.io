@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student @ Griffith (03/2022-)
+role: Postdoc @ Griffith (10/2025-)
 
 # Organizations/Affiliations
 organizations:
@@ -30,6 +30,9 @@ interests:
 
 education:
   courses:
+  - course: Doctor of Philosophy
+    institution: Queensland University of Technology
+    year: 2025    
   - course: M.S in Data Science
     institution: Queensland University of Technology
     year: 2019
@@ -68,5 +71,5 @@ email: "o.qiu@griffith.edu.au"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- PhD Students
+- Academic Staff
 ---
