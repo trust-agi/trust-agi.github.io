@@ -26,6 +26,14 @@ sections:
             <details open>
             <summary>Recent News (2025)</summary>  
     
+             *  <details>
+                <summary><span style="color:blue"> <b>[Celebration]: </b> </span>Researchers are recognised as World top 2% Scientists by Stanford University (09/2025) [<span style="color:red"> <b>Click for more Info.</b> </span>]</summary>
+    
+                * Shirui Pan - <span style="color:red"> <b> [Career-Long Impact](https://jokergoooo.shinyapps.io/top2pct_scientists/) </b> </span> list and <span style="color:red"> <b> Single-Year Impact</b> </span> list (2024)
+                * Alan Liew - <span style="color:red"> <b> [Career-Long Impact](https://jokergoooo.shinyapps.io/top2pct_scientists/) </b></span> list
+                * Yixin Liu - <span style="color:red"> <b> [Single-Year Impact](https://jokergoooo.shinyapps.io/top2pct_scientists/) </b></span> list    
+                </details>  
+    
             * <span style="color:red"> <b>[NeurIPS x4]: </b> </span> Four papers were accepted at <span style="color:red"> <b>NeurIPS-25(CORE A*/CCF A) </b> </span>, including the first graph foundation model for RAG - [GFM-RAG](https://github.com/RManLuo/gfm-rag) (09/2025).                                            
             * <span style="color:red"> <b>[Nature Series x1]: </b> </span> Paper on _AI4Science_ (AI-driven Protein Design) was published in <span style="color:red"> <b>[Nature Reviews Bioengineering](https://rdcu.be/eE5rL) (IF: 37.75)</b> </span> (09/2025). 
             * <span style="color:red"> <b>[ICML x9]: </b> </span> Nine papers were accepted at <span style="color:red"> <b>ICML-25(CORE A*/CCF A) </b> </span> (05/2025).                                        
