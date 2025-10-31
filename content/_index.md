@@ -25,7 +25,8 @@ sections:
       text: |
             <details open>
             <summary>Recent News (2025)</summary>  
-    
+
+            * <span style="color:blue"> <b>[Celebration]: </b> </span>Our Paper Received the 2025 <span style="color:red"> <b>IEEE ICDM Best Paper Runner-Up Award </b> </span> (11/2025).        
              *  <details>
                 <summary><span style="color:blue"> <b>[Celebration]: </b> </span>Researchers are recognised as World top 2% Scientists by Stanford University (09/2025) [<span style="color:red"> <b>Click for more Info.</b> </span>]</summary>
     
