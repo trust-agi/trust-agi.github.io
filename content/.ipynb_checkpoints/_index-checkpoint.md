@@ -25,8 +25,10 @@ sections:
       text: |
             <details open>
             <summary>Recent News (2025)</summary>  
-
-            * <span style="color:blue"> <b>[Celebration]: </b> </span>Our Paper Received the 2025 <span style="color:red"> <b>IEEE ICDM Best Paper Runner-Up Award </b> </span> (11/2025).        
+            
+            * <span style="color:blue"> <b>[Celebration]: </b> </span>Shirui Pan honored with [Australia's Leading Researcher in AI](https://www.theaustralian.com.au/special-reports/research-magazine/the-2026-research-magazine-showcases-the-benefits-of-research/news-story/cd04714e9c76e43bbcd32ad0288e7470) by The Australian’s 2026 Research magazine (11/2025).    
+    
+            * <span style="color:blue"> <b>[Celebration]: </b> </span>Our paper received the 2025 <span style="color:red"> <b>IEEE ICDM Best Paper Runner-Up Award </b> </span> (11/2025).        
              *  <details>
                 <summary><span style="color:blue"> <b>[Celebration]: </b> </span>Researchers are recognised as World top 2% Scientists by Stanford University (09/2025) [<span style="color:red"> <b>Click for more Info.</b> </span>]</summary>
     
