@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Students @ Monash (04/2021-)
+role: Lecturer
 
 # Organizations/Affiliations
 organizations:
@@ -18,15 +18,14 @@ organizations:
 - name: Monash University
   url: "https://www.monash.edu/"
 - name: Faculty of I# Role/position
-role: Lecturer of AI
+role: Adjunct Lecturer of AI
 
 # Organizations/Affiliations
 organizations:
-- name: School of ICT
-  url: "https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology"
-- name: Griffith University
-  url: "https://www.griffith.edu.au/"
-  url: "https://www.monash.edu/it"
+- name: School of Computing Technologies
+  url: "https://www.rmit.edu.au/about/schools-colleges/computing-technologies"
+- name: RMIT
+  url: "https://www.rmit.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include data-centric AI and graph analysis.
@@ -83,5 +82,5 @@ email: "zhengxin.cs at gmail.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Academic Staff
+- Adjunct Academics 
 ---

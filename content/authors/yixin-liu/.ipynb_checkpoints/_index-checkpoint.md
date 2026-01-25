@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: ARC Research Fellow
+role: Lecturer and ARC DECRA Fellow
 
 # Organizations/Affiliations
 organizations:

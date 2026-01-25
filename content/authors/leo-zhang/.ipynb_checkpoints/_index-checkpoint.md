@@ -10,7 +10,7 @@ last_name: Zhang
 superuser: no
 
 # Role/position
-role: Senior Lecturer of AI & Security
+role: Associate Professor of AI & Security
 
 # Organizations/Affiliations
 organizations:

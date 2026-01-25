@@ -1,5 +1,5 @@
 ---
-title: Shirui Pan was Featured as Australia's Leading Researcher in AI (November 2025)
+title: Shirui Pan was Featured as Australia's Leading Researcher in AI (Nov 2025)
 date: 2024-11-20
 image:
   caption: 
