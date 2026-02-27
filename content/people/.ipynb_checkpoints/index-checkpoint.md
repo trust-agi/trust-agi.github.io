@@ -67,10 +67,11 @@ sections:
                 **Visiting Students/Scholars**
                 |   | Name       | Visiting  Peorid | Univeristy                             |
                 |---|------------|------------------|----------------------------------------|
-                | 1 | Jiapu Wang | 2024.1-2025.1    | Beijing University of Technology       |
-                | 2 | Yili Wang  | 2023.12-2024.12  | Jilin University                       |
-                | 3 | Bing Yang  | 2023.12-2024.12  | China Jiliang University               |
-                | 4 | Yazhou Shi | 2024.1-2025.1    |          Wuhan   Textile University    |               
+                | 1 | Zeyu Wang  | 2025.6-2026.2    | Zhejiang University of Technology      |
+                | 2 | Jiapu Wang | 2024.1-2025.1    | Beijing University of Technology       |
+                | 3 | Yili Wang  | 2023.12-2024.12  | Jilin University                       |
+                | 4 | Bing Yang  | 2023.12-2024.12  | China Jiliang University               |
+                | 5 | Yazhou Shi | 2024.1-2025.1    |          Wuhan   Textile University    |               
                 
   - block: markdown
     content:
