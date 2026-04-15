@@ -24,6 +24,14 @@ sections:
       subtitle: 
       text: |
             <details open>
+            <summary>Recent News (2026)</summary> 
+    
+            * <span style="color:blue"> <b>[Keynote]: </b> </span>Shirui Pan will be giving a keynote at [IJCNN-2026](https://attend.ieee.org/wcci-2026/invited-speakers/) in June at Maastricht, The Netherlands.    
+    
+            </details> 
+    
+    
+            <details open>
             <summary>Recent News (2025)</summary>  
             
             * <span style="color:blue"> <b>[Celebration]: </b> </span>Shirui Pan honored with [Australia's Leading Researcher in AI](https://www.theaustralian.com.au/special-reports/research-magazine/the-2026-research-magazine-showcases-the-benefits-of-research/news-story/cd04714e9c76e43bbcd32ad0288e7470) by The Australian’s 2026 Research magazine (11/2025).    
