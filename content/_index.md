@@ -27,7 +27,9 @@ sections:
             <summary>Recent News (2026)</summary> 
     
             * <span style="color:blue"> <b>[Keynote]: </b> </span>Shirui Pan will be giving a keynote at [IJCNN-2026](https://attend.ieee.org/wcci-2026/invited-speakers/) in June at Maastricht, The Netherlands.    
-    
+            * <span style="color:blue"> <b>[Chair]: </b> </span>Shirui Pan will be Serving as a Program Co-Chair of 2027 IEEE Symposium Series on Computational Intelligence (<span style="color:red"> <b>SSCI-2027 </b> </span>), IEEE CIS flagship conference.    
+            * <span style="color:blue"> <b>[Chair]: </b> </span>Shirui Pan will be Serving as a Program Co-Chair of 2027 IEEE International Conference on Data Mining (<span style="color:red"> <b>ICDM-2027(CORE A*) </b> </span>), IEEE CS flagship conference.     
+            * <span style="color:blue"> <b>[Chair]: </b> </span>Shirui Pan will be Serving as a Program Co-Chair of [2026 IEEE International Conference on Knowledge Graph](https://ickg2026.github.io/) (<span style="color:red"> <b>ICKG-2026 </b> </span>), IEEE CS flagship conference.          
             </details> 
     
     
